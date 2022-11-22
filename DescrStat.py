@@ -14,6 +14,8 @@
     RETURNS: data_mean, data_std, data_var
     --------------------------------------------------------------------
     '''
+ 
+ 
 # Import packages
 import numpy as np
 
