@@ -1,8 +1,6 @@
  '''
     --------------------------------------------------------------------
-    Esta función imprime y retorna estadística descriptiva 
-    de un archivo de texto delimitado por comas, 
-    de una sola variable.
+    Esta función imprime y retorna estadística descriptiva de un archivo de texto delimitado por comas, de una sola variable
     --------------------------------------------------------------------
     INPUTS:
     datafile = string, path del archivo de datos a usar en la función.
@@ -16,6 +14,8 @@
     RETURNS: data_mean, data_std, data_var
     --------------------------------------------------------------------
     '''
+ 
+ 
 # Import packages
 import numpy as np
 
