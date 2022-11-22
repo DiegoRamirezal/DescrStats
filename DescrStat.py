@@ -1,6 +1,6 @@
  '''
     --------------------------------------------------------------------
-    Esta función imprime y retorna estadística descriptiva de un archivo de texto delimitado por comas, de una sola variable
+    Esta función imprime y retorna estadística descriptiva de un archivo de texto delimitado por comas, de una sola variable.
     --------------------------------------------------------------------
     INPUTS:
     datafile = string, path del archivo de datos a usar en la función.
